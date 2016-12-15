@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Writefileto Storage</string>
+    <string name="save_data">Save to file</string>
+    <string name="ent_data">Enter DATA</string>
+    <string name="delete_file">Delete File</string>
+    <string name="content_file">Content From File</string>
+    <string name="output">Output</string>
+    <string name="load_data">Load from file</string>
+</resources>
